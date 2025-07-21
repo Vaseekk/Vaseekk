@@ -11,6 +11,9 @@ Jun 09 16:20:06 github-bio systemd[1]: User session for Vaseekk is active.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge)
+![Music Production](https://img.shields.io/badge/Music_Producer-1DB954?logo=spotify&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
