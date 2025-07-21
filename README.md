@@ -1,4 +1,4 @@
-```
+<code>
 Jun 09 16:20:00 github-bio systemd[1]: Starting user session for Vaseekk...
 Jun 09 16:20:01 github-bio user[1001]: Cybersecurity student & programmer initialized
 Jun 09 16:20:02 github-bio user[1001]: Skills loaded: Linux, Networking, MikroTik, Docker, Python, Bash, TypeScript, SIEM, monitoring, incident response, automation
@@ -6,7 +6,7 @@ Jun 09 16:20:03 github-bio user[1001]: Interests: pentesting, CTFs, network auto
 Jun 09 16:20:04 github-bio projects[1001]: See repos at https://github.com/Vaseekk/
 Jun 09 16:20:05 github-bio contact[1001]: Discord (<a href="https://discordapp.com/users/493340712105017344">vaseekk</a>)
 Jun 09 16:20:06 github-bio systemd[1]: User session for Vaseekk is active.
-```
+</code>
 
 ---
 
